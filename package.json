@@ -1,0 +1,29 @@
+{
+  "name": "mkdirsp",
+  "version": "1.0.0",
+  "description": "create folders on async with promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrunlee/mkdirs.git"
+  },
+  "keywords": [
+    "async",
+    "mkdirs",
+    "promise"
+  ],
+  "author": "chrunlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrunlee/mkdirs/issues"
+  },
+  "homepage": "https://github.com/chrunlee/mkdirs#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.1.1",
+    "should": "^13.2.1"
+  }
+}
