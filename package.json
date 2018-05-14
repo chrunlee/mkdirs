@@ -1,6 +1,6 @@
 {
   "name": "mkdirsp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create folders on async with promise",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,5 @@
   },
   "homepage": "https://github.com/chrunlee/mkdirs#readme",
   "dependencies": {
-    "assert": "^1.4.1",
-    "mocha": "^5.1.1",
-    "should": "^13.2.1"
   }
 }
