@@ -1,4 +1,4 @@
-# mkdirs
+# mkdirsp
 create folders on async with promise
 
 # usage
